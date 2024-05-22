@@ -1,22 +1,17 @@
-![MasterHead](https://private-user-images.githubusercontent.com/125440789/299480434-552c7471-74c2-4ed5-bbc5-b9043f00234c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYxMzY2NzQsIm5iZiI6MTcwNjEzNjM3NCwicGF0aCI6Ii8xMjU0NDA3ODkvMjk5NDgwNDM0LTU1MmM3NDcxLTc0YzItNGVkNS1iYmM1LWI5MDQzZjAwMjM0Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyNFQyMjQ2MTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zZDM4NWM4MDY0ODM3ZjM3MTY2YjEzNDEzNGIzM2MyNmE3ZGIzNGQyYWVlNTAzNjhmMzExMWM5MzM5YTg3NmM2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.DB-YIkruXGPfirQecKIyaGZ2w0E-ccg2Mh2TQYb4yX0
-)
+![MasterHead](./github-header-image.png)
 <h1 align="center">Welcome!</h1>
 <h3 align="center">Ojeifo David Github Space🚀</h3>
 <img align= "right" alt="CodingGuy" width="400" src="https://private-user-images.githubusercontent.com/125440789/299477400-d2dfd74e-14e1-4387-9f09-d6855a2dab25.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYxMzU3MzYsIm5iZiI6MTcwNjEzNTQzNiwicGF0aCI6Ii8xMjU0NDA3ODkvMjk5NDc3NDAwLWQyZGZkNzRlLTE0ZTEtNDM4Ny05ZjA5LWQ2ODU1YTJkYWIyNS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyNFQyMjMwMzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMTFhM2U0YjAzNjQ5ZWM5NjVlNDljMGQxYWM2ZmViZTdlNWQwNjdkNTdmMGM1YTdiNWZmZTIwMjE0MWJiNDZjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.VjjsxY3GKjbzfKEIxJKnf6_YKqxkKt6_gwnDdB5y_h0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kingvadee&label=Profile%20views&color=0e75b6&style=flat" alt="DAVID" /> </p>
 <p align="left"> <a href="https://twitter.com/king_dave0496" target="blank"><img src="https://img.shields.io/twitter/follow/king_dave0496?logo=twitter&style=for-the-badge" alt="king_dave0496" /></a> </p>
 
-- 🔭 I'm currently a Student of *ALX Software Engineering - Cohort 13*
+- 🔭 ALX Alumni, Software Engineering - Backend*
 
-- 🔭 I’m working on *Backend Specialization Projects*
-
-- 🌱 I’m also learning *Python, JavaScript & DBMS*
-
-- 💬 You can ask me about *MongoDB*
+- 🔭 Ai Enthusiast *Backend Specialization Projects*
 
 - 📫 How to reach me -> *ojeifod8@gmail.com*
 
-- ⚡ Fun fact *I love Video Games, so i worked on a 2D Maze Game project*
+- ⚡ Fun fact *I love Gaming *
    ## 🔗 Social Medias:
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ojeifo-42781a239/)
   [![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbmOWdK4KQzDNbOkxN2demg)
@@ -41,7 +36,7 @@
 
 ✅ Teamwork
 
-✅ Creativity
+✅ Writer/Content Creator
 
 ✅ Problem-solving
 
