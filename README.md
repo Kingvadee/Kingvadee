@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kingvadee&label=Profile%20views&color=0e75b6&style=flat" alt="DAVID" /> </p>
 <p align="left"> <a href="https://twitter.com/king_dave0496" target="blank"><img src="https://img.shields.io/twitter/follow/king_dave0496?logo=twitter&style=for-the-badge" alt="king_dave0496" /></a> </p>
 
-- 🔭 ALX Alumni, Software Engineering - Backend*
+- 🔭 ALX Alumni, Software Engineering - Backend
 
-- 🔭 Ai Enthusiast *Backend Specialization Projects*
+- 🔭 Ai Enthusiast
 
-- 📫 How to reach me -> *ojeifod8@gmail.com*
+- 📫 How to reach me -> *ojeifod8@gmail.com +2349052120136*
 
 - ⚡ Fun fact *I love Gaming *
    ## 🔗 Social Medias:
